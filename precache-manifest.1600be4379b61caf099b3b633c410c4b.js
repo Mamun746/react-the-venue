@@ -12,27 +12,23 @@ self.__precacheManifest = [
     "url": "/react-the-venue/static/media/slide_one.84753208.jpg"
   },
   {
-    "revision": "c85905123248e6584a7debd6b3c400ff",
-    "url": "/react-the-venue/static/media/slide_four.c8590512.jpg"
-  },
-  {
     "revision": "0fb2d2b47b06344f8ba8",
     "url": "/react-the-venue/static/js/runtime~main.0fb2d2b4.js"
   },
   {
-    "revision": "eef4fcb7da329a9d0c61",
-    "url": "/react-the-venue/static/js/main.eef4fcb7.chunk.js"
+    "revision": "63a4fa45940735b2805b",
+    "url": "/react-the-venue/static/js/main.63a4fa45.chunk.js"
   },
   {
-    "revision": "a1a22faa47c597d3bcb5",
-    "url": "/react-the-venue/static/js/1.a1a22faa.chunk.js"
+    "revision": "cfc8471a61fdad20e457",
+    "url": "/react-the-venue/static/js/1.cfc8471a.chunk.js"
   },
   {
-    "revision": "eef4fcb7da329a9d0c61",
-    "url": "/react-the-venue/static/css/main.0ccbbc76.chunk.css"
+    "revision": "63a4fa45940735b2805b",
+    "url": "/react-the-venue/static/css/main.671b5f7f.chunk.css"
   },
   {
-    "revision": "195e133d5f222482bdc76bc9a3c8f75c",
+    "revision": "1b2911e50872c5503cb6d4b84cfa4377",
     "url": "/react-the-venue/index.html"
   }
 ];
