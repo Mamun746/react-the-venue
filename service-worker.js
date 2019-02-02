@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-the-venue/precache-manifest.1600be4379b61caf099b3b633c410c4b.js"
+  "/react-the-venue/precache-manifest.ebffd35586d5659497febd322c73055e.js"
 );
 
 workbox.clientsClaim();
