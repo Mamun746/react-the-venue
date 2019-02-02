@@ -9,34 +9,33 @@ import Pricing from './components/pricing/index'
 import Location from './components/location/index'
 import Footer from './components/header_footer/footer'
 
-class App extends React.Component{
-    render(){
-        return(
-            <div style={{height:'1500px'}}>
-            
-            <Header/>
-            <Element name="feature">
-            <Featured/>
-            </Element>
-            
+class App extends React.Component {
+    render() {
+        return (
+            <div style={{ height: '1500px' }}>
 
-            <Element name="venueinfo"> 
-                <VenueNfo/>
-            </Element>
+                <Header />
+                <Element name="feature">
+                    <Featured />
+                </Element>
+
+                <Element name="venueinfo">
+                    <VenueNfo />
+                </Element>
                 <Element name="highlight">
-            <Highlight/>
-            </Element>
-            <Element name="pricing">
-            <Pricing/>
-            </Element>
-            <Element name="location">
-            <Location/>
-            </Element>
-           <Element name="footer">
-           <Footer/>
-           </Element>
-            
-            
+                    <Highlight />
+                </Element>
+                <Element name="pricing">
+                    <Pricing />
+                </Element>
+                <Element name="location">
+                    <Location />
+                </Element>
+                <Element name="footer">
+                    <Footer />
+                </Element>
+
+
             </div>
         )
     }

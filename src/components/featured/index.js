@@ -9,7 +9,7 @@ const Featured=()=>{
 
         <div className="artist_name">
         <div className="wrapper">
-        Marina Grande
+        MAKKUS BIRTHDAY
         </div>
         
         </div>
